@@ -19,3 +19,8 @@ E-MAIL : igloo2@naver.com
 # Company
 
 * [YOUNGLIMWON SOFT LAB](https://www.ksystem.co.kr) (2014-04 ~ Now)
+
+
+<iframe src="https://www.youtube.com/embed/videoseries? 
+    list=UUJhHaq56JKvZlAQ32OH71nQ&index=0" frameborder="0" 
+    allowfullscreen> 
