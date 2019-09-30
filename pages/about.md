@@ -21,6 +21,6 @@ E-MAIL : igloo2@naver.com
 * [YOUNGLIMWON SOFT LAB](https://www.ksystem.co.kr) (2014-04 ~ Now)
 
 
-<iframe src="https://www.youtube.com/embed/videoseries? 
-    list=UUJhHaq56JKvZlAQ32OH71nQ&index=0" frameborder="0" 
-    allowfullscreen> 
+<div style="position: relative; height:0; padding-bottom: 56.25%">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/ybhXVSAdIRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; width:100%; height:100%;"></iframe>
+</div>
