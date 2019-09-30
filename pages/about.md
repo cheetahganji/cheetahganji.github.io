@@ -14,7 +14,7 @@ NAME   : Kim wanyoung
 
 BIRTH  : 1990-01-10
 
-E-MAIL : igloo2@naver.com
+E-MAIL : [igloo2@naver.com](mailto:igloo2@naver.com)
 
 # Company
 
