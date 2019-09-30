@@ -15,3 +15,7 @@ NAME   : Kim wanyoung
 BIRTH  : 1990-01-10
 
 E-MAIL : igloo2@naver.com
+
+# Company
+
+* [YOUNGLIMWON SOFT LAB](https://www.ksystem.co.kr) (2014-04 ~ Now)
