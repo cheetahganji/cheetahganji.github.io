@@ -1,26 +1,30 @@
 # Site Settings
 name: CirclelcriC
 title: CirclelcriC | BLOG
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+description: description
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
+email: igloo2@naver.com
 disqus_username: disqus_username
-show_hero: true
+show_hero: false
+
+# 김완영 :: 임의 추가
+paginate: 9
+timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: cheetahganji
+# facebook_username: facebook_username
+# twitter_username: twitter_username
+instagram_username: chex2tah
+# linkedin_username: linkedin_username
+# medium_username: medium_username
 
 
 # Theme Settings
@@ -35,14 +39,14 @@ texts: "#333333"
 show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true
-two_columns_layout: true
+two_columns_layout: false
 
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "kr"
 
 
 # Build settings
@@ -89,5 +93,3 @@ exclude: [
   'gulpfile.js',
   'README.md'
 ]
-
-theme: jekyll-theme-cayman
