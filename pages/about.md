@@ -8,16 +8,17 @@ menu: true
 
 <img class="img-rounded" src="/assets/img/profile2.jpeg" alt="Kim wanyoung" width="200">
 
-# About
 
-* Kim wanyoung
+# <img src="https://image.flaticon.com/icons/svg/1367/1367487.svg" alt="name" width="100" height="100"> About
 
-* 1990-01-10
+* Kim Wanyoung
+
+* 1990.01.10
 
 * [igloo2@naver.com](mailto:igloo2@naver.com)
 
 ---
 
-# Company
+# <img src="https://image.flaticon.com/icons/svg/1367/1367494.svg" alt="company" width="100" height="100"> Company
 
-* [YOUNGLIMWON SOFT LAB](https://www.ksystem.co.kr) (2014-04 ~ Now)
+* [YOUNGLIMWON SOFT LAB](https://www.ksystem.co.kr) (2014-04 ~ 재직중)
