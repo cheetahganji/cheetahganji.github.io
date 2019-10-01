@@ -12,9 +12,7 @@ menu: true
 # <img src="https://image.flaticon.com/icons/svg/1367/1367487.svg" alt="name" width="100" height="100"> About
 
 * Kim Wanyoung
-
 * 1990.01.10
-
 * [igloo2@naver.com](mailto:igloo2@naver.com)
 
 ---
