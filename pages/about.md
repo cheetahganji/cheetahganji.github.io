@@ -12,11 +12,9 @@ menu: true
 
 <img src="https://image.flaticon.com/icons/svg/1367/1367487.svg" alt="name" width="50" height="50"> 
 
-NAME   : Kim wanyoung
-
-BIRTH  : 1990-01-10
-
-E-MAIL : [igloo2@naver.com](mailto:igloo2@naver.com)
+* Kim wanyoung
+* 1990-01-10
+* [igloo2@naver.com](mailto:igloo2@naver.com)
 
 ---
 
