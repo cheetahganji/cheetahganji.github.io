@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/profile3.jpeg
+photo: /assets/img/증명사진(투명).png
 name: kwy
 display_name: Kim Wanyoung
 position: 포지션
