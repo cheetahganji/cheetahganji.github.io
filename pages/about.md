@@ -6,7 +6,7 @@ permalink: /about/
 menu: true
 ---
 
-<img class="img-rounded" src="/assets/img/profile3.jpeg" alt="Kim wanyoung" width="200">
+<img class="img-rounded" src="/assets/img/profile_transparency.png" alt="Kim wanyoung" width="200">
 
 
 # <img src="https://image.flaticon.com/icons/svg/1367/1367487.svg" alt="name" width="100" height="100"> About
